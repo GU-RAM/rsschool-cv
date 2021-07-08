@@ -16,6 +16,11 @@
 - HTML5
 - Javascript
 
+## Languages
+
+- English
+- Russian
+
 ## Interests
 
 - Table tennis.
